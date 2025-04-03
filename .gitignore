@@ -1,0 +1,4 @@
+*.env
+*.venv
+*.cache
+*load_auth.sh
