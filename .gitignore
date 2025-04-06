@@ -1,4 +1,7 @@
 *.env
 *.venv
 *.cache
+*.DS_Store
 *load_auth.sh
+/src/actual-demos/data/*.csv
+/src/actual-demos/json-data/*.json
